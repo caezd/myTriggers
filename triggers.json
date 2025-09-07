@@ -1,5 +1,5 @@
 {
-    "violents": [
+    "Violents": [
         "accident de voiture",
         "agression sexuelle",
         "armes (couteaux, armes à feu)",
@@ -48,7 +48,7 @@
         "violences policières",
         "zoophilie"
     ],
-    "courants": [
+    "Sensibles": [
         "abandon",
         "accouchement",
         "aiguilles",
